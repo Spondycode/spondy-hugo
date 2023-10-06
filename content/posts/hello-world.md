@@ -12,3 +12,7 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
+
+## I suppose I can add to this post?
+
+There is supposed to be a draft tag on the meta data but I haven't seen it so far.
