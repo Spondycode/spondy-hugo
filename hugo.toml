@@ -48,9 +48,9 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "Spondicious Developments"
+    subtitle = "The Joy of Tech"
+    owner = "David ALlen"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
