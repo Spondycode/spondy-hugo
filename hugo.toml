@@ -1,8 +1,8 @@
 
 baseurl = "/"
 languageCode = "en-us"
-title = 'My New Hugo Site'
-theme = "terminal"
+title = 'Spondicious Developments'
+theme = "ananke"
 paginate = 5
 
 [params]
@@ -60,7 +60,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Spondicious"
       logoHomeLink = "/"
 
     [languages.en.menu]
