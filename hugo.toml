@@ -1,5 +1,5 @@
 
-baseurl = "/"
+baseurl = "https://spondy-hugo.pages.dev/"
 languageCode = "en-us"
 title = 'Spondicious Developments'
 theme = "ananke"
@@ -49,15 +49,15 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Spondicious Developments"
-    subtitle = "The Joy of Tech"
-    owner = "David ALlen"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+    # subtitle = "The Joy of Tech"
+    # owner = "David Allen"
+    # keywords = ""
+    # copyright = ""
+    # menuMore = "Show more"
+    # readMore = "Read more"
+    # readOtherPosts = "Read other posts"
+    # missingContentMessage = "Page not found..."
+    # missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
       logoText = "Spondicious"

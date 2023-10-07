@@ -1,5 +1,5 @@
 +++
-title = "GoodandGeeky A Lifelong Learner"
+title = "GoodandGeeky - A Lifelong Learner"
 date = "2023-10-06T23:53:26+02:00"
 author = "David Allen"
 authorTwitter = "" #do not include @
