@@ -1,7 +1,6 @@
 +++
 title = 'What went Wrong'
 date = 2023-10-07T03:33:32+02:00
-draft = true
 +++
 
 ## Still Working out how this works
