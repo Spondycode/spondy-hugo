@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Spondicious Dev"
+    title = "Spondicious Dev Ramblings"
     weight = 1
     contentDir = "content/"
     # languageDirection = 'rtl' for Right-To-Left languages
