@@ -17,3 +17,8 @@ I made a markdown file and it would not register as a markdown file in Hugo. Tri
 
 
 It is a simple website and sometimes that's all you need. It would be cool if I could generate the time code needed at the top of the file and send the blog post from Drafts app for example. Or if I could get to the folder the posts are in from Drafts.
+
+
+Can't new a new page to show on the published Github pages site.
+
+
