@@ -1,4 +1,3 @@
-
 +++
 title = 'iPhone 15 Pro 256 GB - Latest Nymeria'
 date = 2023-10-27T05:04:18+02:00
