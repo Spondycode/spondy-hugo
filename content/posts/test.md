@@ -10,6 +10,9 @@ date = 2023-10-07T05:06:32+02:00
 I made a markdown file and it would not register as a markdown file in Hugo. Tried again and it worked??
 
 
+{{< youtube w7Ft2ymGmfc >}}
+
+
 ## More experimentation is required
 
 

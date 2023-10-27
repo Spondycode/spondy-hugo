@@ -28,7 +28,7 @@ enableRobotsTXT = true
   author = "Dave Allen"
   favicon = ""
   site_logo = ""
-  description = "Ramblings of and Old Dev Bloke"
+  description = "Ramblings of an Old Dev Bloke"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-purple"
   recent_posts_number = 3

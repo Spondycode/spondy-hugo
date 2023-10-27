@@ -1,6 +1,7 @@
 +++
 title = 'What went Wrong'
 date = 2023-10-07T03:33:32+02:00
+featured_image = 'static/images/threemaLink.jpeg'
 +++
 
 ## Still Working out how this works
@@ -19,3 +20,5 @@ I was wondering if I could just make a markdown file in the correct folder and i
 
 
 Just have to remember the markdown code. I see there are some special codes you can use to add things like YouTube videos.
+
+
