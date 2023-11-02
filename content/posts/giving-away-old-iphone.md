@@ -1,7 +1,6 @@
 +++
 title = 'Giving Away Old Iphone'
 date = 2023-11-02T04:24:43+01:00
-draft = true
 +++
 
 ## Old iPhone to Oliver
