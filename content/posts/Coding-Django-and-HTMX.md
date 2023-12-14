@@ -2,7 +2,6 @@
 title = 'Coding Django and HTMX'
 date = 2023-11-09T09:24:16+01:00
 +++
-  e
 ## Course by Andreas Judd
 
 Really good course which is mostly about Django and creating a web site with it. He also uses Tailwind for the CSS styling and has a good, orgainised way to set up the web pages. To make the site more interactive he shows us HTMX and another thing which builds on that so no Javascript is needed to make things happen, So far, I'm on lesson 19 and I've learned a huge amount and it mostly all makes sense to me.
