@@ -19,6 +19,8 @@ If you're venturing into Django development or looking for a structured approach
 
 First things first, creating a folder structure and setting up a virtual environment is crucial for a clean development workflow. Dave, a seasoned Django developer, shares his preferred way to do this using terminal applications like Warp and VS Code.
 
+[Watch the YouTube Video](https://youtu.be/dDVp4lvafTE)
+
 ### Installing Django and Essential Packages
 
 Dave starts by creating a virtual environment and installing Django 5. Additionally, he introduces Django-environ for handling environment variables and Pillow for image handling. The step-by-step installation of these packages is detailed to ensure a comprehensive setup.
