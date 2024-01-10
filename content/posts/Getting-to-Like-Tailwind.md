@@ -3,9 +3,6 @@ title = 'Getting to Like Tailwind'
 date = 2024-01-10T19:11:51+01:00
 +++
 
-Here's your text with some corrections in grammar, punctuation, and word choice:
-
----
 
 ## Getting To Like Tailwind
 
@@ -15,6 +12,3 @@ On one hand, it’s nice to have everything in one tin, where you put all of you
 
 The big project I’ve been working on is probably too far gone down the line for me to change it from Bootstrap to Tailwind. That’s a shame, and I wish I had stuck with Tailwind when I was following the tutorial on which I based most of my code for my website. If I have to do any sort of complete rewrite, then next time I will certainly build it all using Tailwind. 
 
----
-
-I've made some adjustments for clarity and flow. If you have any specific preferences or questions about the changes, feel free to ask!
