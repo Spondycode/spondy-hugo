@@ -2,3 +2,20 @@
 title = 'Learning New Languages'
 date = 2024-01-18T11:19:49+01:00
 +++
+
+Here's your text with some corrections in grammar, punctuation, and readability:
+
+---
+
+## Working With Django - Exploring Go-Lang
+
+This week, I've been exploring a programming language called Go, and it seems quite interesting. I found a course on YouTube by an Austrian woman. It took a while to get used to her accent, but the course has been pretty good, and I'm enjoying programming with this new language. I was debating between Rust and Go as a new language to learn. I should probably get back into JavaScript, but I don't feel like it. Lately, I've also been looking at Swift as I'd like to be able to build a Mac or iOS application. I'm starting to feel like a proper coder, programmer, or software engineer, even though I have difficulty remembering how to do things and have to remind myself. Honestly, I don't think it's possible to remember everything needed for coding. It's better to make notes while doing new things and then refer back to them when needed. It's just like doing a Google search to find out how to code something, and all developers do that.
+
+## Super Camper Website
+
+Sometimes, I go a couple of days without working on it and then get back to it. I usually take a break when I'm struggling with something. When I return to it, I can get to the heart of the problem and get back into the swing of making it all work. I returned to my Super Camper website yesterday after a couple of days doing other things. I wanted to set it up so that users could report a post. This is important because there are malicious individuals out there who will use something like my website to promote their own garbage or upload disgusting content. I was thinking I wanted it so that users could report, and the post would be hidden after three users reported the same thing. I haven't added that feature yet; I've made it so that a post will be hidden when reported. For now, I have to go to a webpage I constructed yesterday, which shows all of the reported posts in a table. I will have to go to this page from time to time and look at these problems so I can sort them out manually. One possibility is that people will upload things that need to be deleted right away. This is what I have done so far, and it seems to work fairly well. I've just set a boolean on the post, which will hide it immediately when reported. When I look into this, it will be either a valid complaint, and I will have to decide whether I'm going to change the permissions for the user who posted it. I could either ban the user from posting any more, or I could set it so that they will have to be approved with their postings. Another possibility is that the reporting person did so maliciously or by mistake, and I can reinstate the post.
+
+## Still Learning Tailwind
+
+I like it so much more than Bootstrap; it gives me many more options for colors easily. I've also been looking at a service called Web Forms and another one called Framer. Basically, they allow you to visually put a website together by dragging and dropping items onto the page. It's really quite impressive. The good thing about it is that when you pay the subscription, you get to export the code for the HTML and also for the CSS/JavaScript, which can then be put into a Django project. It's not really going to help me with Tailwind, though. It's going to be vanilla CSS, but that could be useful also. Basically, it's all about making it easy to style the page with as little as possible. I'm not sure I want to add another subscription as I already have too much going out either on a monthly or annual basis. Services such as Copilot are invaluable and well worth the €9 per month that it is costing me. It really saves me a lot of time not typing in the boilerplate stuff and helps me when I get stuck with a problem. I have to take note of the code that it gives me fairly often, as I do have to make changes to get it to work.
+
