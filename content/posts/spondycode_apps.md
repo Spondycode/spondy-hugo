@@ -19,5 +19,8 @@ With FlutterFlow I can also make web apps and apps which will run on a Mac. Cove
 
 I've still not made any money with my code efforts yet but it's getting closer. I'm spending on the monthly fee for using FlutterFlow and I went with the Pro version in the end because it makes it so much easier with deploying the apps on the app stores. Well, at least it is going well with the iOS end of things. I have got stuck with Google Play store for the moment. I will have to ask for help. I am nearly to the point of having my iOS app on the Apple App Store. Just a few sticky deployment things to sort out. At least getting the app into Testflight has been super easy.
 
+## Started using other Terminal apps
+
+I bounce between iTerm2 and Warp usually but recently I have tried Alacritty and Kitty. Warp is handy because it has some AI built into it. Sometimes though I find that gets in the way. I might also have a look at Westerm. 
 
 ![app image](../../assets/images/app_home.jpg)
