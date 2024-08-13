@@ -23,4 +23,4 @@ I've still not made any money with my code efforts yet but it's getting closer. 
 
 I bounce between iTerm2 and Warp usually but recently I have tried Alacritty and Kitty. Warp is handy because it has some AI built into it. Sometimes though I find that gets in the way. I might also have a look at Westerm. 
 
-![app image](assets/images/app_home.jpg)
+![app image](./app_home.jpg)
