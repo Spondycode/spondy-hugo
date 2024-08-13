@@ -17,7 +17,7 @@ Or go to my [YouTube Channel Community Page](https://www.youtube.com/@Good-and-G
 
 ### Threema - NHS3UK3Y
 
-I like the [Threema](https://threema.ch/en/download) messaging service. You have to pay for it but it isn't much $5. At least you are **not** the product, as you are with google email adrresses.
+I like the [Threema](https://threema.ch/en/download) messaging service. You have to pay for it but it isn't much $5. At least you are **not** the product, as you are with google email addresses.
 
 ![Threema QR Code](https://goodandgeeky.com/wp-content/uploads/2023/10/threemaLink.jpeg)
 
