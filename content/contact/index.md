@@ -21,6 +21,6 @@ I like the [Threema](https://threema.ch/en/download) messaging service. You have
 
 ![Threema QR Code](assets/threemaLink.jpeg)
 
-![test](https://spondycode.github.io/assets/threemaLink.jpg) 
+![test](https://spondycode.github.io/spondy-hugo/content/assets/threemaLink.jpg) 
 
 
