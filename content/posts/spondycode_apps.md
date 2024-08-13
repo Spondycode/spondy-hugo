@@ -25,4 +25,3 @@ I bounce between iTerm2 and Warp usually but recently I have tried Alacritty and
 
 ![app image](https://spondycode.dev/img/IMG_1594.jpeg)
 
-![Threema](assets/threemaLink.jpeg)
